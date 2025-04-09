@@ -6,7 +6,7 @@ This repository contains the Tableau project for the MIS 505 Data Visualization 
 
 Table of Contents:  
 • Project Overview  
-• Results 
+• Results (Chart1 and Chart2)
 • Tableau Workbook  
 • Installation and Usage  
 • Data Sources and Methodology  
@@ -118,7 +118,7 @@ To run or view this project locally, follow these steps:
 
 Data Sources and Methodology:  
 Data Sources:  
-• The analysis is based on [insert description of your data sources]. The data was preprocessed and cleaned using Excel before being imported into Tableau.
+•  The data was preprocessed and cleaned using Excel before being imported into Tableau.
 
 Analytical Approach:  
 • The visualization strategy utilizes comparative charts, trend analyses, and geographical mapping to provide a multi-faceted view of the market.
