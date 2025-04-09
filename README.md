@@ -7,6 +7,7 @@ This repository contains the Tableau project for the MIS 505 Data Visualization 
 Table of Contents:  
 • Project Overview  
 • Results (Chart1 and Chart2)
+
 • Tableau Workbook  
 • Installation and Usage  
 • Data Sources and Methodology  
